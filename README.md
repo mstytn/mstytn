@@ -70,10 +70,7 @@
       alt="react" width="40" height="40" title="react"/> </a> ▷
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
-      alt="nextjs" width="40" height="40" title="nextjs"/> </a> ▷
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-      src="https://docs.nestjs.com/assets/logo-small.svg"
-      alt="nestjs" width="40" height="40" title="nestjs"/> </a> ∞
+      alt="nextjs" width="40" height="40" title="nextjs"/> </a> ∞
 
 ## Tools
 
