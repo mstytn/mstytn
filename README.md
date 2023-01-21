@@ -67,10 +67,7 @@
 
 ⚡<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" title="react"/> </a> ▷
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
-      alt="nextjs" width="40" height="40" title="nextjs"/> </a> ∞
+      alt="react" width="40" height="40" title="react"/> </a>
 
 ## Tools
 
